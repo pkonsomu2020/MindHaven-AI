@@ -83,7 +83,7 @@ MindHaven combines AI technology, professional expertise, and community support 
 - **Scalability:** Designed to include multilingual support and culturally relevant content for global reach.
 
 ## Project Demo
-- **Live Demo:** [Add Live Demo Link]
+- **Live Demo:** [[LIVE LINK](https://mind-haven-ai.vercel.app/)]
 - **Demo Video:** [Add Video Link]
 
 ## License
