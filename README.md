@@ -84,7 +84,7 @@ MindHaven combines AI technology, professional expertise, and community support 
 
 ## Project Demo
 - **Live Demo:** [[LIVE LINK](https://mind-haven-ai.vercel.app/)]
-- **Demo Video:** [Add Video Link]
+- **Demo Video:** [[VIDEO LINK](https://vimeo.com/1049636866?share=copy)]
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
