@@ -1,6 +1,6 @@
 # MindHaven
 
-![MindHavenWebsite](screenshot.png)
+![MindHavenWebsite](screenshot.PNG)
 
 MindHaven is an innovative online mental health support platform designed to address the stigma, inaccessibility, and high costs associated with traditional mental health resources. By providing a safe, anonymous, and user-friendly environment, MindHaven empowers individuals to take charge of their mental well-being.
 
